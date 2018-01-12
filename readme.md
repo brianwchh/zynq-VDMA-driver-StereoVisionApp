@@ -28,9 +28,12 @@ or
 
 http://v.youku.com/v_show/id_XMzE3NjU0NTA4NA==.html?spm=a2hzp.8253869.0.0
 
+### application in object detection 
+https://youtu.be/BIUoqIPO0g8
+https://youtu.be/lcXE6p9kHfU
 
-## QQ group : 150241908
 
 ## credit goes to many people who has shared their knowledge . 
-共勉一下：勤学习，多涨薪，追房价（按现阶段的物价，动动指头，先赚他个4-6万/月吧，哈哈^_^，开心就好）。为社区尽一点微薄之力，帮助更多的创客。
+共勉一下：勤学习，多涨薪，追房价吧（equal pay for the equal work, 希望勤劳智慧996无偿/有偿加班的中国工程师们都能像“美帝国主义”的工程师的知识一样值钱，如果一定要在这薪资前面加个修饰词，我希望是睡后）。
+为社区尽一点微薄之力，帮助更多的创客。
 
