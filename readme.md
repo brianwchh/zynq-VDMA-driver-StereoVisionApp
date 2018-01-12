@@ -30,6 +30,9 @@ http://v.youku.com/v_show/id_XMzE3NjU0NTA4NA==.html?spm=a2hzp.8253869.0.0
 
 ### application in object detection 
 https://youtu.be/BIUoqIPO0g8
+
+and 
+
 https://youtu.be/lcXE6p9kHfU
 
 
