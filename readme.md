@@ -1,5 +1,5 @@
 # [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/SOSfromGEM</sub>](https://github.com/brianwchh/SOSfromGEM)
-![alt text](./images/SOSfromGEM2.png)
+![alt text](./images/thumbnail.png)
 
 in this repository I share a zynq-vdma driver I used in stereo vision ,and an demo app that utilize this driver . 
 I used to have trouble with this driver,and had spend sometime to figure it out。it might not be a standard way, but it works well in this case.
